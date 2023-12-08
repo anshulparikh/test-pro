@@ -14,3 +14,22 @@ such as computers, smartphones, and other gadgets.
 
 Biotechnology: Involves the use of biological systems, organisms, or derivatives to develop 
 or create new products and solutions, such as medicines or genetically modified organisms.
+
+Clean Technology (CleanTech): Focuses on environmentally friendly and sustainable technologies, 
+including renewable energy sources, energy efficiency, and waste reduction.
+
+Telecommunications: Deals with the transmission of information over long distances, 
+often involving the use of various communication technologies and networks.
+
+Automotive Technology: Encompasses innovations related to automobiles, 
+including electric vehicles, autonomous driving, and advanced safety features.
+
+Aerospace and Aviation Technology: Involves the design and development of aircraft, 
+spacecraft, and related technologies.
+
+Blockchain and Cryptocurrency: Technologies related to decentralized digital currencies, 
+smart contracts, and distributed ledger systems.
+
+The term "tech" is often used as a shorthand reference to the dynamic and 
+rapidly evolving world of technology. It's an umbrella term that covers a wide range of disciplines, 
+and its usage can depend on the context in which it's being employed.
